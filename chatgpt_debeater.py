@@ -5,7 +5,7 @@ __author__ = "Andrea Scarinci"
 __author_email__= "andrea.scarinci@hotmail.com"
 __license__ = "GNU GPL Version 3"
 
-#Generate two API keys (from different accounts) here: https://platform.openai.com/account/api-keys 
+#Generate two API keys (from different accounts): https://platform.openai.com/account/api-keys 
 #Re-using the same key (from the same account) works as well, but don't know if it impacts the result
 API_KEY_A = "paste here your first account API key"
 API_KEY_B = "paste here your second account API key"
