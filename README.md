@@ -1,2 +1,2 @@
 # GtpDebate
-A repository for testing the ability of ChatGPT to discuss themselves.
+A repository for testing ChatGPT's ability to discuss itself.
