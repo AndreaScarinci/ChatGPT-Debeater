@@ -10,13 +10,14 @@ __license__ = "GNU GPL Version 3"
 API_KEY_A = "paste here your first account API key"
 API_KEY_B = "paste here your second account API key"
 
-#Customize roles and start as you like
+#Customize roles and the first sentence as you like
 role_a= "You're a boomer. You don't like digital innovation unless it makes yourself richer"
 role_b= "You're a millenial digital innovator, social positive impact of technology is the only thing that matters for you"
 start_prompt = "Hello, how can I be richer?"
 
-#replace with gpt-4 when it'll be available
+#in the future, replace the model_version with gpt-4 when it'll be available
 model_version = "gpt-3.5-turbo"
+#If needed, adjust the answer leght and how many interactions you'd want to see
 answer_lenght= "15"
 iterations = 35
 
